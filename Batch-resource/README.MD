@@ -5,4 +5,4 @@
 2. `nsf -taobao` 直接更改到淘宝镜像
 3. `nsf -h` 帮助手册
 4. `nsf -v` 版本信息<br />
-https://www.cnblogs.com/seafever/p/nsf.html
+[详细说明](https://www.cnblogs.com/seafever/p/nsf.html)
